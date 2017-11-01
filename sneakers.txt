@@ -1,0 +1,13 @@
+adidas:
+-yeezy
+-flux
+-boost
+-nmd
+nike:
+-freerun
+-roshe
+-air max
+-presto
+-jordan
+vans:
+-old skool
